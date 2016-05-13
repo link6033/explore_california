@@ -1,5 +1,6 @@
 # Comment 
 tempfile
+tempfile2
 *.zip
 *.gz
 log/*.log
